@@ -15,3 +15,10 @@ public class Mavenproject1 {
         System.out.println("Hello World!");
     }
 }
+
+public class Driver{
+    public static void main(String[] args)
+    {
+        
+    }
+}
